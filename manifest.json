@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "olamundo",
+    "description": "Extensão Arquitetura",
+    "author": "Davi/Gabriel",
+    "action": {
+        "default_title": "Extension",
+        "default_popup": "index.html"
+    }
+}
